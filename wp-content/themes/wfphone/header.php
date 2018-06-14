@@ -37,7 +37,7 @@
                 <!-- 
                 les ul li ici peuvent être supprimer, l'appel php ci-dessous créer automatique ul et li pour afficher le menu avce les titres créés sur wp    
                 <ul id="menu">
-                    <!-- <li>
+                   <li>
                         <a href="index.html">WebForce Phone</a>
                     </li>
                     <li>
@@ -48,8 +48,8 @@
                     </li>
                     <li>
                         <a href="index.html">Community</a>
-                    </li> -->
-                </ul> -->
+                    </li> 
+                 </ul> -->
                 <ul>
                     <li>
                         <i class="fa fa-user" aria-hidden="true"></i>
